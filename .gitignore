@@ -7,7 +7,7 @@
 /coverage
 
 # production
-/dist
+# /dist # TODO: THIS A SUPER DIRTY HACK! PLEASE REVISIT WHEN POSSIBLE!
 /storybook-static
 
 # misc
